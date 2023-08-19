@@ -1,0 +1,7 @@
+msgid ""
+msgstr ""
+"Language: en-US\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgid "Hello"
+msgstr "Hello World"

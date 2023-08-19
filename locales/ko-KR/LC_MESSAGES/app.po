@@ -1,0 +1,7 @@
+msgid ""
+msgstr ""
+"Language: ko-KR-KR\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgid "Hello"
+msgstr "안녕, 세상!"

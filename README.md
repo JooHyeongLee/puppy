@@ -12,6 +12,11 @@
 - 다양한 현지 체험 액티비티 정보 제공
 - 액티비티 예약 및 결제 처리
 - 관리자용 대시보드와 데이터 관리 기능
+- 다국어처리
+
+## 다국어처리
+> $ msgfmt locales/ko-KR/LC_MESSAGES/app.po -o locales/ko-KR/LC_MESSAGES/app.mo  
+> $ msgfmt locales/en-US/LC_MESSAGES/app.po -o locales/en-US/LC_MESSAGES/app.mo
 
 
 ## 프로젝트 목표
